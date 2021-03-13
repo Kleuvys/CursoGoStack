@@ -1,3 +1,9 @@
 [submodule "desafio01"]
 	path = desafio01
 	url = ./desafio01
+[submodule "desafio02"]
+	path = desafio02
+	url = ./desafio02
+[submodule "desafio03"]
+	path = desafio03
+	url = ./desafio03
